@@ -9,7 +9,7 @@ In this work, the regression problem of spatiotemporal data is studied under the
   <img src="./figure/theta_Gneiting.jpg" width=50% height=50%>
   </p>
   <figcaption
-  <strong>Figure 1:</strong> The trajectory of the standard deviation of the function g(t) over the sampling time points. (1) LLR (Liu et al., 2021). (2) LC (Lin and Carroll, 2001b). (3) WCX (Wang et al. 2005). (4) Other. (5) The proposed PLWWR.
+  <strong>Figure 1:</strong> The trajectory of the standard deviation of the function g(t) over the sampling time points. (1) LLR (Liu et al., 2021). (2) LC (Lin and Carroll, 2001b). (3) WCX (Wang et al. 2005). (4) The proposed PWLLR.
 </figcaption>
 </figure>
 
