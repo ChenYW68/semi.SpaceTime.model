@@ -1,6 +1,6 @@
-# An Efficient Estimation Method for Semiparametric Models of Spatial-Temporal Data
+# An Efficient Approach for Estimating Parameters and Nonparametric Functions in Spatio-temporal Semi-parametric Regression Models
 
-In this work, the regression problem of spatiotemporal data is studied under the framework of the semiparametric model. A new kernel estimator for the spatiotemporally correlated data is proposed to estimate nonpatametric functions, and we show the new method can improve estimation efficiency of nonpatametric functions from existing kernel methods such as the local linear regression.
+In this work, the regression problem of spatiotemporal data is studied under the framework of the semiparametric model. A new kernel estimator for the spatiotemporally correlated data is proposed to estimate nonparametric functions, and we show the new method can improve the estimation efficiency of nonparametric functions from existing kernel methods such as the local linear regression.
 
 
 ## A simulation result
