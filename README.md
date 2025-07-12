@@ -6,7 +6,7 @@ This work investigates statistical inference for both the mean and covariance fu
 ## A simulation result
 <figure id="Figure1">
     <p align="center">
-  <img src="./figure/DetailedComparison.jpg" width=50% height=50%>
+  <img src="./figure/DetailedComparison.jpg" width="1000px">
   </p>
   <figcaption
   <strong>Figure 1:</strong> Pointwise Variance and Mean Square Error of the estimations for g(u). (1) LLR (Liu et al., 2021, JMVA) and the proposed method.
