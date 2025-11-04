@@ -6,7 +6,7 @@ Spatiotemporal semiparametric models are increasingly valued for their flexibili
 <figure id="Figure1">
   <table align="center">
     <tr>
-      <td><img src="./figure/g2_trajectory.jpg" width="800px"></td>
+      <td><img src="./figure/Fig2_trajectory.jpg" width="800px"></td>
     </tr>
   </table>
   <figcaption align="center">
