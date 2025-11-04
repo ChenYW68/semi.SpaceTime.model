@@ -10,17 +10,19 @@ Spatiotemporal semiparametric models are increasingly valued for their flexibili
     </tr>
   </table>
   <figcaption align="center">
-    <strong>Figure 1:</strong>  ointwise absolute bias, standard deviation and mean square error for each method in estimating nonparametric functions.
+    <strong>Figure 1:</strong>  Pointwise absolute bias, standard deviation and mean square error for each method in estimating nonparametric functions.
   </figcaption>
 </figure>
 
 
 ## Real data analysis
-<figure id="Figure1">
-    <p align="center">
-  <img src="./figure/BTH_Covariance.jpg" width="1000px">
-  </p>
-  <figcaption
-  <strong>Figure 1:</strong> Spatiotemporal covariance estimated via the deeper learning method.
-</figcaption>
+<figure id="Figure2">
+  <table align="center">
+    <tr>
+      <td><img src="./figure/BTH_Covariance.jpg" width="800px"></td>
+    </tr>
+  </table>
+  <figcaption align="center">
+    <strong>Figure 1:</strong> Spatiotemporal covariance estimated via the deeper learning method.
+  </figcaption>
 </figure>
