@@ -20,7 +20,7 @@ Spatiotemporal semiparametric models are increasingly valued for their flexibili
 
 ## Real data analysis
 We analyze daily concentration data of PM2.5 in China's BTH region from November 1 to November 30, 2015. The PM2.5 concentrations are from two sources: (i) readings at 68 spatially sparse monitoring sites and (ii) 
-outputs of the Community Multiscale Air Quality (CMAQ) model, a widely used numerical modeling system. The detailed description of the data can be found in \citet{chen2024efficient}. These data are publicly available on GitHub (https://github.com/ChenYW68/HDCM).
+outputs of the Community Multiscale Air Quality (CMAQ) model, a widely used numerical modeling system. The detailed description of the data can be found in \citet{chen2024efficient}. These data are publicly available on [GitHub](https://github.com/ChenYW68/HDC)).
 <figure id="Figure2">
   <table align="center">
     <tr>
