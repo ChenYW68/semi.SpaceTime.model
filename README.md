@@ -4,12 +4,14 @@ Spatiotemporal semiparametric models are increasingly valued for their flexibili
 
 ## Simulation results
 <figure id="Figure1">
-    <p align="center">
-  <img src="./figure/Fig2_trajectory.jpg" width="1000px">
-  </p>
-  <figcaption
-  <strong>Figure 1:</strong> Pointwise absolute bias, standard deviation and mean square error for each method in estimating nonparametric functions.
-</figcaption>
+  <table align="center">
+    <tr>
+      <td><img src="./figure/g2_trajectory.jpg" width="800px"></td>
+    </tr>
+  </table>
+  <figcaption align="center">
+    <strong>Figure 1:</strong>  ointwise absolute bias, standard deviation and mean square error for each method in estimating nonparametric functions.
+  </figcaption>
 </figure>
 
 
