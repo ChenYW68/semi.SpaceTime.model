@@ -20,7 +20,7 @@ Spatiotemporal semiparametric models are increasingly valued for their flexibili
 
 ## Real data analysis
 We analyze daily concentration data of PM2.5 in China's BTH region from November 1 to November 30, 2015. The PM2.5 concentrations are from two sources: (i) readings at 68 spatially sparse monitoring sites and (ii) 
-outputs of the Community Multiscale Air Quality (CMAQ) model, a widely used numerical modeling system. The detailed description of the data can be found in the [paper](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Efficient-and-effective-calibration-of-numerical-model-outputs-using-hierarchical/10.1214/23-AOAS1823.short) and the [paper](https://www.sciencedirect.com/science/article/abs/pii/S016794732300110X?casa_token=k4sdX2uq82AAAAAA:d7fIbx359tQG0p0V10O3OhEeT19oNDgnq0erS1fBSm97WkAY_o0Tc7Sqy53fhH_HYZOypBWfezw). These data are publicly available on [GitHub](https://github.com/ChenYW68/HDC).
+outputs of the Community Multiscale Air Quality (CMAQ) model, a widely used numerical modeling system. The detailed description of the data can be found in the [paper](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Efficient-and-effective-calibration-of-numerical-model-outputs-using-hierarchical/10.1214/23-AOAS1823.short) and the [paper](https://www.sciencedirect.com/science/article/abs/pii/S016794732300110X?casa_token=k4sdX2uq82AAAAAA:d7fIbx359tQG0p0V10O3OhEeT19oNDgnq0erS1fBSm97WkAY_o0Tc7Sqy53fhH_HYZOypBWfezw). These data are publicly available on [GitHub](https://github.com/ChenYW68/HDC). Nonstationary patterns in space and time are observed based on the estimated covariance via the machine learning method.
 <figure id="Figure2">
   <table align="center">
     <tr>
